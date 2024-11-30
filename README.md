@@ -1,8 +1,6 @@
 # DLF_Assignment_3
 RNN_Stock_Price_Prediction
 
-Certainly! Here’s a brief structure for your README.md based on the work you’ve done so far:
-
 Stock Market Prediction with RNN, LSTM, and GRU
 
 This project explores stock market prediction using Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and Gated Recurrent Units (GRU). The focus is on predicting stock prices based on historical stock market data. This repo contains the implementation of three different models for stock price prediction and their evaluation.
